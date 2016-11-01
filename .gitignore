@@ -1,2 +1,3 @@
 # test gitignore
-gnore.txt
+
+*.txt
